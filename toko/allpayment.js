@@ -5,15 +5,16 @@ return `┏━━━━━━━━━━━━━━━━━━━━
 ┣━━⊱❉ *💰 E-WALLET* ❉⊰━━━✿
 ┃   
 ┣━⊱ *GOPAY*
-┣⊱ 0899 0000 0000
+┣⊱ 0858-6801-0957
 ┣━━✿ NAMA GOPAY ${ownername}
 ┃
 ┣━⊱ *DANA*
-┣⊱ 0899 0000 0000
+┣⊱ _Tidak Tersedia_
+
 ┣━━✿ NAMA DANA ${ownername}
 ┃
 ┣━⊱ *PULSA*
-┣⊱ 0899 0000 0000
+┣⊱ 0831-0359-2954
 ┣━━✿ NAMA PULSA ${ownername}
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━
